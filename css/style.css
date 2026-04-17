@@ -887,6 +887,16 @@ main { flex: 1; }
   color: rgba(255, 255, 255, 0.4);
 }
 
+.footer-bottom-left a {
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+.footer-bottom-left a:hover {
+  color: var(--secondary);
+}
+
 .footer-bottom .contact-info {
   flex-direction: row;
   gap: 1.5rem;
