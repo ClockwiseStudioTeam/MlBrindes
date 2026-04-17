@@ -1,1 +1,5 @@
-Sitemap: http://cartazesdechocolate.pt/sitemap.xml
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://cartazesdechocolate.pt/sitemap.xml
